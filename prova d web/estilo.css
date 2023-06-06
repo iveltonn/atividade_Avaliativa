@@ -1,0 +1,19 @@
+.colorir-fundo {
+    background-color: rgb(240, 208, 238);
+}
+
+
+h1 {
+    /*seleçaõ de elementos */
+
+    text-align: center;
+    text-decoration: underline;
+}
+
+#segundo {
+    /* selção de ID*/
+    color: rgb(41, 156, 79);
+    font-size: 20px;
+}
+
+
